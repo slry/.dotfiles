@@ -116,8 +116,6 @@ bindkey '^ ' autosuggest-accept
 alias zshconfig="nvim ~/.zshrc"
 alias nvimconf="cd ~/.config/nvim"
 alias sd="cd ~/Study && cd \$(find * -type d | fzf)"
-# alias idea="./Downloads/ideaIU-2023.3.2/idea-IU-233.13135.103/bin/idea.sh"
-# alias pokerok="~/.wine/drive_c/users/slrypc/AppData/Roaming/POKEROK_X64/bin/launcher.exe"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
